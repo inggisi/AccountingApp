@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GngHX96BIpnTJxVj88JUTjf88iPRZrdxASr1yKuhxYqyy6DFfzY2klt/MQTATDiRODnsbLQoTSTBaHaBDM+vwg==",
+  "success": true,
+  "projectFilePath": "/Users/ingmarscheffler/Library/Mobile Documents/com~apple~CloudDocs/Software/AccountingApp/AccountingApp.Core/AccountingApp.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/ingmarscheffler/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ingmarscheffler/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
