@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "GngHX96BIpnTJxVj88JUTjf88iPRZrdxASr1yKuhxYqyy6DFfzY2klt/MQTATDiRODnsbLQoTSTBaHaBDM+vwg==",
+  "dgSpecHash": "ZCnLsYJ0SApOPacUy9ZuyngrLpXxWaK11bv8chX9nDFoCX2X+LJF6r9GxG5Gd6UeUcnNsiCqsA0Olygbs7vCAQ==",
   "success": true,
   "projectFilePath": "/Users/ingmarscheffler/Library/Mobile Documents/com~apple~CloudDocs/Software/AccountingApp/AccountingApp.Core/AccountingApp.Core.csproj",
   "expectedPackageFiles": [
     "/Users/ingmarscheffler/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/ingmarscheffler/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/ingmarscheffler/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/ingmarscheffler/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ingmarscheffler/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/ingmarscheffler/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/ingmarscheffler/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -8,6 +8,7 @@ namespace AccountingApp.Core
 
     public enum PostingFrequency
     {
+        Once,
         Daily,
         Monthly,
         Quarterly,
